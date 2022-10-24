@@ -19,7 +19,6 @@
 *.tar.gz
 *.rar
 
-*.class
 # idea
 .idea
 *.iml
