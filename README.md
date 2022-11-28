@@ -1,1 +1,0 @@
-# KH-067-QA-01-Khatniuk-Viktoriia
